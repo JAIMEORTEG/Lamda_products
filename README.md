@@ -174,10 +174,5 @@ npm test
 
 Verifica que tienes `bestzip` instalado y que el directorio `releases/` existe.
 
-## 📄 Licencia
 
-[Tu Licencia]
 
-## 👥 Autor
-
-David Ortega
